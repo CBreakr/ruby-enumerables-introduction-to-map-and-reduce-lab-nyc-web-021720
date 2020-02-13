@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 #
 def map_to_negativize(source)
   new_arr = []
@@ -66,8 +65,3 @@ def reduce_to_any_true(source)
   end
   return false
 end
-=======
-def map_to_negativize(source)
-  
-end
->>>>>>> 313b15f34b1614d4f231d5cc09bde3e799b0325c
